@@ -1,0 +1,6 @@
+[submodule "submodules/back"]
+	path = submodules/back
+	url = git@github.com:chanolioX/linux-system-monitor-back.git
+[submodule "submodules/collectors"]
+	path = submodules/collectors
+	url = git@github.com:chanolioX/linux-system-monitor-collectors.git
